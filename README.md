@@ -2,7 +2,7 @@
 
 ### tensor-snake
 
-Control a snake with a webcam.
+Control a snake with a webcam and gestures.
 
 
 
