@@ -22,6 +22,7 @@ async function app() {
 
   //to start, and restart the game
   function startGame() {
+    // the ml part
     runPredictions();
     currentSnake.forEach(index => squares[index].classList.remove('snake'))
     squares[appleIndex].classList.remove('apple')
